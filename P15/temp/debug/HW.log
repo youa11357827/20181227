@@ -1,0 +1,6 @@
+﻿D:\NTUT\program\Microsoft Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+D:\NTUT\program\Microsoft Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+d:\ntut\program\hw\program\107360227_周柏文 1227\p15\include\main.c(20): warning C4474: 'printf': 傳遞給格式字串的引數太多
+  d:\ntut\program\hw\program\107360227_周柏文 1227\p15\include\main.c(20): note: 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+  HW.vcxproj -> D:\NTUT\program\HW\program\107360227_周柏文 1227\P15\HW\HW\..\..\temp\debug\HW.exe
